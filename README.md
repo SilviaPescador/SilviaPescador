@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Silvia</h1>
-<h3 align="center">◾ Full Stack Junior ◾</h3>
+<h3 align="center">◾ Backend developer ◾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviapescador&label=Profile%20views&color=0e75b6&style=flat" alt="silviapescador" /> </p>
 
-- 🔭 I’m currently working on [a Full Stack social media](https://github.com/Ensenada-3-team/EJ_INCREMENTAL_equipo3)
+- 🔭 I’m currently working in **Okticket** as a Backend Developer.
 
-- 🌱 I’m currently learning **Reacjs**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **pescadorlopezs@gmail.com**
 
-- ⚡ Fun fact... **I´m the Phoenix!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
