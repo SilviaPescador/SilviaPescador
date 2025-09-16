@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silviapescador&label=Profile%20views&color=0e75b6&style=flat" alt="silviapescador" /> </p>
 
-- 🔭 I’m currently working in **Okticket** as a Backend Developer.
+- 🔭 I’m currently working as a Backend Developer, but I have Fullstack skills.
 
 - 🌱 I’m currently learning **Laravel**
 
